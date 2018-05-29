@@ -2,6 +2,6 @@ Arduino Library for data handling of AD8318 sensor.
 
 See further details in the header file AD8318.h.
 
-73
+Based on Dietmar, DL2SBA AD8318 library
 
-Dietmar, DL2SBA
+IK2BIY
